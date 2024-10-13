@@ -11,10 +11,6 @@
 
 ## How to Use the Project:
 
-### 1. Access the Application
-   Open the web application by visiting the following link:  
-   [Fun with Files - Project](https://file-upload-to-ipfs-czmj1lemw-suleimans-projects-a0a55f0d.vercel.app)
-
 ### 2. Upload Files
    - Drag and drop files into the upload area or click the **"Browse Files"** button to select files from your device.
    - The upload process will begin immediately after selecting or dropping the files.
